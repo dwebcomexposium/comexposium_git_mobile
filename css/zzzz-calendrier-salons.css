@@ -516,4 +516,13 @@ body.page-events #zone2 .salon-details .catal-other-ex {
       font-weight: normal;
       text-transform: none; }
 
+.comexposium-survey-form fieldset.form-item ul .form-item-radio label {
+    float: none;
+    display: block;
+    padding-left: 0;
+    max-width: 100%;
+    line-height: 40px;
+    margin-left: 5%; 
+}
+
 /*# sourceMappingURL=zzzz-calendrier-salons.css.map */
