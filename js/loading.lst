@@ -1,6 +1,4 @@
 vendor/jquery/jquery.min.js
 vendor/hammerjs/hammer.min.js
-cookies-warning.min.js
-
 slick.min.js
 modules/*
